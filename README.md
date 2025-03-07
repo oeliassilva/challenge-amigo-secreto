@@ -16,15 +16,13 @@
 ## Funcionalidades
 
 O projeto permite a você a sortear de forma simples, o seu amigo secreto, trazendo uma lista dos seus amigos já adicionados, um botão para você relaizar o sorteio, e uma aninamação final  (confete), quando o seu amigo é sorteato.
-Temos também o auxílio a narração em voz, para agregar ao projeto um caráter mais inclusivo.
+Temos também o auxílio da narração por voz, para agregar ao projeto um caráter mais inclusivo.
 
 ## Modo de usar
 
-
-
-
+https://github.com/user-attachments/assets/49167721-3250-456b-80c9-9d6057b96722
 
 
 ## Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/157497754?sv=4" width=115><br><sub>Elias Silva</sub>]
+<img loading="lazy" src="https://avatars.githubusercontent.com/u/157497754?sv=4" width=115><br><sub>Elias Silva</sub>
